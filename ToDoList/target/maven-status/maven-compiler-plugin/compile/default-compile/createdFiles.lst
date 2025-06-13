@@ -1,0 +1,3 @@
+com\toDoList\myApp\service\TacheService.class
+com\toDoList\myApp\controller\TacheController.class
+com\toDoList\myApp\repository\TacheRepository.class
